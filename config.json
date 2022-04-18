@@ -1,0 +1,6 @@
+{
+  "prefix" : "!",
+  "success_color" : "#FFFFFF",
+  "error_color" : "#DD2E44",
+  "url" : "mongodb+srv://user:amine@yuuki.tnasg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
